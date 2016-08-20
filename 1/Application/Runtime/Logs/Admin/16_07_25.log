@@ -1,0 +1,798 @@
+[ 2016-07-25T15:12:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010168s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2016-07-25T15:12:04+08:00 ] 127.0.0.1 /index.php/admin/index/useradd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007818s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2016-07-25T15:12:06+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+NOTIC: [2] PDO::__construct():  D:\vip8888\1\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£ 
+
+[ 2016-07-25T15:12:07+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+NOTIC: [2] PDO::__construct():  D:\vip8888\1\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£ 
+
+[ 2016-07-25T15:12:08+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+NOTIC: [2] PDO::__construct():  D:\vip8888\1\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£ 
+
+[ 2016-07-25T15:12:10+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+NOTIC: [2] PDO::__construct():  D:\vip8888\1\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£ 
+
+[ 2016-07-25T15:12:11+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001117s ]
+NOTIC: [2] PDO::__construct():  D:\vip8888\1\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£ 
+
+[ 2016-07-25T15:12:12+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+NOTIC: [2] PDO::__construct():  D:\vip8888\1\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£ 
+
+[ 2016-07-25T15:12:12+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+NOTIC: [2] PDO::__construct():  D:\vip8888\1\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£ 
+
+[ 2016-07-25T15:12:13+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+NOTIC: [2] PDO::__construct():  D:\vip8888\1\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£ 
+
+[ 2016-07-25T15:12:14+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000808s ]
+NOTIC: [2] PDO::__construct():  D:\vip8888\1\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£ 
+
+[ 2016-07-25T15:12:14+08:00 ] 127.0.0.1 /index.php/admin/index/useradd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000292s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000646s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019795s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020407s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001686s ]
+
+[ 2016-07-25T15:12:15+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+NOTIC: [8] Use of undefined constant SAE_MYSQL_HOST_M - assumed 'SAE_MYSQL_HOST_M' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 8 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_DB - assumed 'SAE_MYSQL_DB' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 9 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_USER - assumed 'SAE_MYSQL_USER' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 10 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PASS - assumed 'SAE_MYSQL_PASS' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 11 è¡Œ.
+NOTIC: [8] Use of undefined constant SAE_MYSQL_PORT - assumed 'SAE_MYSQL_PORT' D:\vip8888\1\Application\Admin\Conf\config.php ç¬¬ 12 è¡Œ.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+NOTIC: [2] PDO::__construct():  D:\vip8888\1\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 103 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ²»ÖªµÀÕâÑùµÄÖ÷»ú¡£ 
+
+[ 2016-07-25T15:16:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000572s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000901s ]
+
+[ 2016-07-25T15:16:04+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `tp_admin`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2016-07-25T15:16:07+08:00 ] 127.0.0.1 /index.php/admin/index/useredit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007808s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001442s ]
+
+[ 2016-07-25T15:16:13+08:00 ] 127.0.0.1 /index.php/admin/index/checktel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001213s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001527s ]
+
+[ 2016-07-25T15:16:13+08:00 ] 127.0.0.1 /index.php/admin/index/douseredit?aid=32&uname=trtert&pwd=d9b1d7db4cd6e70935368a1efb10e377&tel=1589591423
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0011s ]
+SQL: UPDATE `tp_admin` SET `aname`='trtert',`pwd`='7363a0d0604902af7b70b271a0b96480',`tel`='1589591423' WHERE `aid` = 32 [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-07-25T15:19:06+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000509s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011399s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-07-25T15:19:09+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `tp_admin`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000267s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000933s ]
+
+[ 2016-07-25T15:19:12+08:00 ] 127.0.0.1 /index.php/admin/index/useredit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009189s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000834s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001008s ]
+
+[ 2016-07-25T15:19:15+08:00 ] 127.0.0.1 /index.php/admin/index/douseredit?aid=32&aname=trtert&pwd=7363a0d0604902af7b70b271a0b96480&tel=1589591423
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0010s ]
+
+[ 2016-07-25T15:19:18+08:00 ] 127.0.0.1 /index.php/admin/index/checktel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001262s ]
+
+[ 2016-07-25T15:19:18+08:00 ] 127.0.0.1 /index.php/admin/index/douseredit?aid=32&aname=trtert&pwd=7363a0d0604902af7b70b271a0b96480&tel=15895914236
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0011s ]
+SQL: UPDATE `tp_admin` SET `aname`='trtert',`pwd`='1cc39ffd758234422e1f75beadfc5fb2',`tel`='15895914236' WHERE `aid` = 32 [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000963s ]
+
+[ 2016-07-25T15:19:23+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tp_admin`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010023s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010180s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2016-07-25T17:15:57+08:00 ] 127.0.0.1 /index.php/admin/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Undefined index: Admin D:\vip8888\1\Application\Runtime\Cache\Admin\0dfec61edd66f450033aa87c28a760f4.php ç¬¬ 20 è¡Œ.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037202s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001066s ]
+
+[ 2016-07-25T17:15:57+08:00 ] 127.0.0.1 /index.php/Admin/login/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002776s ]
+
+[ 2016-07-25T17:16:08+08:00 ] 127.0.0.1 /index.php/Admin/login/dologin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002183s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tp_admin` WHERE `aname` = 'mengfan' AND `pwd` = '202cb962ac59075b964b07152d234b70' LIMIT 1   [ RunTime:0.0008s ]
+SQL: UPDATE `tp_admin` SET `lip`='127.0.0.1',`ltime`='1469438168' WHERE `aid` = 1 [ RunTime:0.0007s ]
+
+[ 2016-07-25T17:16:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001258s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009569s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000724s ]
+
+[ 2016-07-25T17:16:11+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `tp_admin`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-07-25T17:16:14+08:00 ] 127.0.0.1 /index.php/admin/index/useradd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000661s ]
+
+[ 2016-07-25T17:16:15+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `tp_admin`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000238s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010942s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-07-25T17:16:17+08:00 ] 127.0.0.1 /index.php/admin/index/useredit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000334s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-07-25T17:16:24+08:00 ] 127.0.0.1 /index.php/admin/index/checktel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2016-07-25T17:16:24+08:00 ] 127.0.0.1 /index.php/admin/index/douseredit?aid=32&aname=trtert&pwd=123&tel=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0008s ]
+
+[ 2016-07-25T17:16:29+08:00 ] 127.0.0.1 /index.php/admin/index/checktel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002522s ]
+
+[ 2016-07-25T17:16:29+08:00 ] 127.0.0.1 /index.php/admin/index/douseredit?aid=32&aname=trtert&pwd=123&tel=15895914236
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0008s ]
+SQL: UPDATE `tp_admin` SET `aname`='trtert',`pwd`='202cb962ac59075b964b07152d234b70',`tel`='15895914236' WHERE `aid` = 32 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2016-07-25T17:39:53+08:00 ] 127.0.0.1 /index.php/admin/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000490s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011233s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000975s ]
+
+[ 2016-07-25T17:39:56+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000274s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000922s ]
+
+[ 2016-07-25T17:50:08+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010623s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010790s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2016-07-25T17:50:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000449s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010093s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000893s ]
+
+[ 2016-07-25T17:51:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000304s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009702s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009915s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-07-25T17:53:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001664s ]
+
+[ 2016-07-25T17:54:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000759s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011543s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011721s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000717s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000871s ]
+
+[ 2016-07-25T17:54:32+08:00 ] 127.0.0.1 /index.php/admin/index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+SQL: SHOW COLUMNS FROM `tp_admin` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `tp_admin`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000251s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010869s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-07-25T17:54:34+08:00 ] 127.0.0.1 /index.php/admin/index/useradd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000390s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007072s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000730s ]
+
